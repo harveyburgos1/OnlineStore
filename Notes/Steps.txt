@@ -1,7 +1,0 @@
-1.Model - business rules,nullable
-2. DbContext - DbSet. On model creating & Table Name
-3.Add migration
-4. Interface = domain
-5. Repositories = infra
-6. Startup - in the API 
-7. Controller

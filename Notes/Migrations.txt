@@ -1,8 +1,0 @@
-add-migration migration name
-update-database
-remove -migration
-
-
-
-
-

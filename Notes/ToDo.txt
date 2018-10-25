@@ -1,5 +1,0 @@
-1. Determine which generic collection is the best to use in a certain problem.
-2. 'this' keyword. Use in variables and as a extension method
-3. 'as' keyword
-4. abstract vs interfaces
-
